@@ -13,3 +13,8 @@ This feature lets you format discs to anything you want. If an app can't read yo
 it's probably because _it failed to format it._ But, we already prepared up thousands
 of apps for you to format. And, if it's not done manually, math and code calculations are used to identify
 the code and format the disc to it.
+
+# Instant BIOS and Registry Editors
+Edit BIOS, and registry easily without needing to understand hard work. Instant. Fast, and Secure.
+
+# 
